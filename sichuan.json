@@ -1,0 +1,75 @@
+{
+  "name": "四川省",
+  "down": [
+            {
+              "name": "成都市",
+              "down": [
+                        {
+                        "name": "金牛区",
+                        "down": [],
+                        "controller": {
+                          "name": "李1",
+                          "tel": "484565"}
+                        },
+                        {
+                        "name": "青羊区",
+                        "down": [],
+                        "controller": {
+                          "name": "李1",
+                          "tel": "4845656"}
+                        },
+                        {
+                        "name": "成华区",
+                        "down": [],
+                        "controller": {
+                          "name": "李1",
+                          "tel": "4845656"}
+                        }
+              ],
+              "controller": {
+                "name": "王1",
+                "tel": "1234563"
+              }
+            },
+            {"name":"德阳市",
+             "down":[
+                     {
+                        "name": "中江县",
+                        "down": [],
+                        "controller": {
+                          "name": "赵1",
+                          "tel": "484565"}
+                     },
+                     {
+                        "name": "罗江县",
+                        "down": [],
+                        "controller": {
+                          "name": "赵2",
+                          "tel": "4845656"}
+                     },
+                     {
+                        "name": "广汉市",
+                        "down": [],
+                        "controller": {
+                          "name": "赵3",
+                          "tel": "4845656"}
+                     }
+                      ],
+             "controller": {
+                 "name": "王2",
+                 "tel": "4845656"
+                  }
+            },
+           {"name":"泸州市",
+            "down":[],
+            "controller": {
+               "name": "王3",
+               "tel": "12344563"
+                }
+                          }
+          ],
+  "controller": {
+      "name": "张1",
+      "tel": "1234563"
+  }
+}
